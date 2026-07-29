@@ -34,14 +34,30 @@ Security Operations Centers face alert overload and analyst fatigue. This projec
 
 ## Artifacts
 
-Safe public artifacts to prepare:
+Public artifacts included:
 
 - Sanitized technical report summary
 - Executed notebook after identity/path review
 - Pipeline GIF if confirmed safe
-- Neutralized wallboard screenshot or rebuilt neutral dashboard
+- Interactive SOC shift wallboard prototype
 
 Do not publish employer data, real alerts, ticket data, or private SOC screenshots.
+
+## Interface Prototype
+
+The repository includes an interactive SOC shift wallboard prototype that demonstrates how the project interface could look if the optimization workflow were presented as a live operational dashboard.
+
+The prototype visualizes:
+
+- Shift roster and break planning
+- Alert stream simulation
+- ML-based alert risk and routing decisions
+- Analyst workload and coverage status
+- L3 on-call escalation visibility
+
+Live demo path after GitHub Pages is enabled:
+
+<https://yasir-alharbi.github.io/soc-alert-triage-optimization/demo/soc-shift-wallboard/>
 
 ## Methods
 
